@@ -1,4 +1,7 @@
 class {
-	public static void main(){}
+	public static void main(){
+asdsd	
+}
+
 }
 
